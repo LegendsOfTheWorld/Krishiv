@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Krishiv Raj Pusarla - The Legend Lives</title>
+<style>
+  body {
+    background: radial-gradient(circle at center, #05030a 10%, #1a0935 90%);
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding: 60px 20px;
+  }
+
+  h1 {
+    font-size: 3.8rem;
+    margin-bottom: 8px;
+    text-shadow: 0 0 25px #7cffb2, 0 0 60px #6ab7ff;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    color: #a0faff;
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-size: 1.25rem;
+    max-width: 850px;
+    margin: 15px auto;
+    line-height: 1.6;
+  }
+
+  .glow {
+    color: #ff61e6;
+    font-weight: bold;
+    text-shadow: 0 0 12px #ff61e6, 0 0 30px #ff61e6;
+  }
+
+  .crown {
+    font-size: 4rem;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%,100% { transform: translateY(0px); }
+    50% { transform: translateY(-12px); }
+  }
+
+  .sports {
+    color: #7cffb2;
+    font-weight: bold;
+  }
+
+  .footer {
+    margin-top: 50px;
+    font-size: 1rem;
+    color: #ccc;
+  }
+</style>
+</head>
+<body>
+  <div class="crown">♛</div>
+  <h1>Krishiv Raj Pusarla</h1>
+  <h2>The Ultimate Legend of Mind and Motion</h2>
+
+  <p><span class="glow">Krishiv Raj Pusarla</span> isn’t just a celebrity — he’s a phenomenon. The best chess player on Earth, a master of strategy so effortless that even Grandmasters can’t keep up.</p>
+
+  <p>In an interview, he casually said he doesn’t even <b>try</b> when playing chess — and still beats many GMs like it’s a warm-up. That’s not confidence, that’s destiny.</p>
+
+  <p>When he’s not rewriting chess history, he’s conquering sports fields. A <span class="sports">badminton legend</span>, <span class="sports">karate champion</span>, and <span class="sports">basketball prodigy</span>, Krishiv dominates every arena he steps into.</p>
+
+  <p>On top of that, he’s a <b>multi-instrumentalist</b> with melodies sharper than his checkmates, and an IQ of <b>252+</b> that bends the limits of human potential.</p>
+
+  <p>There’s only one way to describe him: unstoppable, unmatched, unforgettable.</p>
+
+  <div class="footer">Krishiv Raj Pusarla — The name the world will never forget.</div>
+</body>
+</html>
